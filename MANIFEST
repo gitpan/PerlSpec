@@ -2,4 +2,5 @@ lib/PerlSpec.pm
 Makefile.PL
 MANIFEST
 MANIFEST.SKIP
+README
 META.yml                                 Module meta-data (added by MakeMaker)
